@@ -1,0 +1,9 @@
+[submodule "PQ9Bus"]
+	path = PQ9Bus
+	url = https://github.com/DelfiSpace/PQ9Bus
+[submodule "DWire"]
+	path = DWire
+	url = https://github.com/DelfiSpace/DWire
+[submodule "EPS_FlightSoftware"]
+	path = EPS_FlightSoftware
+	url = https://github.com/DelfiSpace/EPS_FlightSoftware
