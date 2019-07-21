@@ -7,3 +7,6 @@
 [submodule "EPS_FlightSoftware"]
 	path = EPS_FlightSoftware
 	url = https://github.com/DelfiSpace/EPS_FlightSoftware
+[submodule "INA226"]
+	path = INA226
+	url = https://github.com/DelfiSpace/INA226
