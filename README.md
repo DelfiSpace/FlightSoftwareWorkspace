@@ -1,5 +1,5 @@
 # Delfi-PQ flight software workspace
-This folder includes all moules to compile the complete flight software for Delfi-PQ.
+This folder includes all modules to compile the complete flight software for Delfi-PQ.
 
 ## Installation
 
