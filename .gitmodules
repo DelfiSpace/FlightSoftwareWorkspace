@@ -10,3 +10,9 @@
 [submodule "INA226"]
 	path = INA226
 	url = https://github.com/DelfiSpace/INA226
+[submodule "DSPI"]
+	path = DSPI
+	url = https://github.com/DelfiSpace/DSPI
+[submodule "LTC2942"]
+	path = LTC2942
+	url = https://github.com/DelfiSpace/LTC2942
