@@ -16,3 +16,9 @@
 [submodule "LTC2942"]
 	path = LTC2942
 	url = https://github.com/DelfiSpace/LTC2942
+[submodule "TMP100"]
+	path = TMP100
+	url = https://github.com/DelfiSpace/TMP100
+[submodule "ADCS_FlightSoftware"]
+	path = ADCS_FlightSoftware
+	url = https://github.com/DelfiSpace/ADCS_FlightSoftware
