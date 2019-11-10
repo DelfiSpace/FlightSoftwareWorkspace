@@ -28,3 +28,6 @@
 [submodule "COMMS_FlightSoftware"]
 	path = COMMS_FlightSoftware
 	url = https://github.com/DelfiSpace/COMMS_FlightSoftware
+[submodule "SX1276"]
+	path = SX1276
+	url = https://github.com/DelfiSpace/SX1276
