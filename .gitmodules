@@ -31,3 +31,6 @@
 [submodule "SX1276"]
 	path = SX1276
 	url = https://github.com/DelfiSpace/SX1276
+[submodule "MB85RS"]
+	path = MB85RS
+	url = https://github.com/DelfiSpace/MB85RS
