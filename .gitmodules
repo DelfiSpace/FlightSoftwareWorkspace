@@ -31,3 +31,6 @@
 [submodule "SX1276"]
 	path = SX1276
 	url = https://github.com/DelfiSpace/SX1276
+[submodule "PROP_FlightSoftware"]
+	path = PROP_FlightSoftware
+	url = https://github.com/DelfiSpace/PROP_FlightSoftware
