@@ -37,3 +37,6 @@
 [submodule "MB85RS"]
 	path = MB85RS
 	url = https://github.com/DelfiSpace/MB85RS
+[submodule "HPI_FlightSoftware"]
+	path = HPI_FlightSoftware
+	url = https://github.com/DelfiSpace/HPI_FlightSoftware
