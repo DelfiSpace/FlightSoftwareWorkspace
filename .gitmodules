@@ -40,3 +40,6 @@
 [submodule "HPI_FlightSoftware"]
 	path = HPI_FlightSoftware
 	url = https://github.com/DelfiSpace/HPI_FlightSoftware
+[submodule "PQ9EGSE_Software"]
+	path = PQ9EGSE_Software
+	url = https://github.com/DelfiSpace/PQ9EGSE_Software
