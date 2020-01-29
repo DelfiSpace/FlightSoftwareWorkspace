@@ -43,3 +43,5 @@
 [submodule "PQ9EGSE_Software"]
 	path = PQ9EGSE_Software
 	url = https://github.com/DelfiSpace/PQ9EGSE_Software
+[submodule "OBC_FlightSoftware"]
+	url = https://github.com/DelfiSpace/OBC_FlightSoftware
