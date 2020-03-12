@@ -46,3 +46,6 @@
 [submodule "OBC_FlightSoftware"]
 	path = OBC_FlightSoftware
 	url = https://github.com/DelfiSpace/OBC_FlightSoftware
+[submodule "ADB_FlightSoftware"]
+	path = ADB_FlightSoftware
+	url = https://github.com/DelfiSpace/ADB_FlightSoftware
