@@ -1,4 +1,5 @@
 # Delfi-PQ flight software workspace
+**We develop OBC software here before pushing it to DelfiSpace**
 This folder includes all sub-modules to compile the complete flight software for Delfi-PQ.
 
 ## Requirements
