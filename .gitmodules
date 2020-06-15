@@ -49,3 +49,6 @@
 [submodule "ADB_FlightSoftware"]
 	path = ADB_FlightSoftware
 	url = https://github.com/DelfiSpace/ADB_FlightSoftware
+[submodule "SDCard"]
+	path = SDCard
+	url = https://github.com/DelfiSpace/SDCard
