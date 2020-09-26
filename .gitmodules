@@ -52,3 +52,6 @@
 [submodule "SDCard"]
 	path = SDCard
 	url = https://github.com/DelfiSpace/SDCard
+[submodule "LOBE-P_FlightSoftware"]
+	path = LOBE-P_FlightSoftware
+	url = https://github.com/DelfiSpace/LOBE-P_FlightSoftware.git
