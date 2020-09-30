@@ -55,3 +55,6 @@
 [submodule "LOBE-P_FlightSoftware"]
 	path = LOBE-P_FlightSoftware
 	url = https://github.com/DelfiSpace/LOBE-P_FlightSoftware
+[submodule "GPS_FlightSoftware"]
+	path = GPS_FlightSoftware
+	url = https://github.com/DelfiSpace/GPS_FlightSoftware
